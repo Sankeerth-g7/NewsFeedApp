@@ -36,7 +36,7 @@ NewsFeedApp is a single-screen news feed application built with React Native and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/NewsFeedApp.git
+   git clone https://github.com/Sankeerth-g7/NewsFeedApp.git
    cd NewsFeedApp
 2. Install the dependencies:
    ```sh
